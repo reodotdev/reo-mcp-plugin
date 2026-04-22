@@ -1,5 +1,5 @@
 {
-  "name": "reo-mcp-tools",
+  "name": "claude-plugin",
   "version": "1.0.0",
   "description": "Turn Reo into your GTM copilot inside Claude. Research accounts and buyers, prioritize your daily account list by ICP fit and real activity, and surface deanonymized engaged developers — all grounded in ~90M enriched LinkedIn profiles, firmographic data, hiring signals, and first-party engagement from the Reo buyer intelligence platform.",
   "author": {
